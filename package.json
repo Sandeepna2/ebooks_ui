@@ -1,0 +1,34 @@
+{
+  
+    "name": "ebooks_ui",
+    "version": "1.0.0",
+    "scripts": {
+      "clean": "parcel clean",
+      "build": "parcel build src/index.html",
+      "start": "parcel src/index.html"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeepna2/ebooks_ui.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Sandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandeepna2/ebooks_ui/issues"
+  },
+  "homepage": "https://github.com/Sandeepna2/ebooks_ui#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0",
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
