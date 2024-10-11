@@ -32,8 +32,8 @@ This is going to be awsome project
     - Team section (Grid / Cards)
 
 - Contact
-    - Contact form(Form)
-    - Contact info(Text)
+    - Contact form (Form)
+    - Contact info (Text)
 
 - Cart
     - Cart Items (Grid / Cards)
