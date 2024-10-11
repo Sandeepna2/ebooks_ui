@@ -31,16 +31,8 @@
     - Contact form(Form)
     - Contact info(Text)
 
--
 
-### components
 
-- Navbar
-- Book
-- Cart
-- Checkout
-- Login
-- Signup
 
 
 
