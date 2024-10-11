@@ -22,7 +22,7 @@ This is going to be awsome project
         - Books cover, title, author, description, price, add to cart button
 
 
-- Author
+- Authors
     - Author Lists (Grid / Cards)
     - Author Details
         - Author name, bio, books, social Links
