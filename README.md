@@ -40,3 +40,11 @@ This is going to be awsome project
     - Cart Total (Text)
     - Checkout button (Button)
 
+
+- Login
+    - Login form (Form)
+
+- Register
+    - Register form (Form)
+
+
