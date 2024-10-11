@@ -14,7 +14,7 @@ This is going to be awsome project
     - Catagories (Grid / Cards)
     - Testimonials (Carousel)
     - Enquiry form (Form)
-    - Footer (Links)
+    - Footer (Sub Links)
 
 - Books
     - Books Lists (Grid / Cards)
