@@ -1,5 +1,9 @@
 # ebooks 
 
+## An ecommerce store for buying books!
+
+This is going to be awsome project
+
 ## Development
 
 ### pages
@@ -31,12 +35,8 @@
     - Contact form(Form)
     - Contact info(Text)
 
+- Cart
+    - Cart Items (Grid / Cards)
+    - Cart Total (Text)
+    - Checkout button (Button)
 
-
-
-
-
-
-## An ecommerce store for buying books!
-
-This is going to be awsome project
