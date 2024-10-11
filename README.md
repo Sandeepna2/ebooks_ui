@@ -23,7 +23,7 @@ This is going to be awsome project
 
 
 - Author
-    - Author Lists(Grid / Cards)
+    - Author Lists (Grid / Cards)
     - Author Details
         - Author name, bio, books, social Links
 
