@@ -8,7 +8,7 @@
     <script type="module" src="js/main.js"></script>
 </head>
 <body>
-  <main class="bg-primary">
+  <div class="bg-primary">
     <nav class="navbar navbar-expand-lg bg-primary container" data-bs-theme="dark" >
       <div class="container-fluid">
         <a class="navbar-brand" href="/">eBooks</a>
@@ -52,7 +52,52 @@
         </div>
       </div>
     </nav>
+  </div>
+  <header>
+    <div id="carouselExampleDark" class="carousel carousel-dark slide">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active" data-bs-interval="10000" style="background-image: url('./assets/images/book1.jpg'); background-size: cover; background-position: center; min-height: 450px;">
+          <!-- <img src="..." class="d-block w-100" alt="..."> -->
+          <div class="carousel-caption d-none d-md-block bg-white bg-opacity-75 px-4">
+            <h1>The Enchanted Forest<small class="text-primary">Author: Emily Winters</small></h1>
+            <p class="lead"> In a realm where magic thrives, a young girl named Clara stumbles upon an ancient forest filled with mythical creatures and hidden wonders.</p>
+          </div>
+        </div>
+        <div class="carousel-item" data-bs-interval="2000" style="background-image: url('./assets/images/book-2.jpg'); background-size: cover; background-position: center; min-height: 450px;">
+
+          <!-- <img src="..." class="d-block w-100" alt="..."> -->
+          <div class="carousel-caption d-none d-md-block bg-white bg-opacity-75 px-4">
+            <h1>Shadows of the Past <small class="text-primary">Author: Sarah Larkin</small></h1>
+            <p class="lead">Detective Mark Thompson is drawn into a web of intrigue when a series of disappearances rock his small town.</p>
+          </div>
+        </div>
+        <div class="carousel-item" style="background-image: url('./assets/images/book-3.jpg'); background-size: cover; background-position: center; min-height: 450px;">
+
+          <!-- <img src="..." class="d-block w-100" alt="..."> -->
+          <div class="carousel-caption d-none d-md-block bg-white bg-opacity-75 px-4">
+            <h1> Whispers of the Ocean<small class="text-primary">Author: James Holloway</small></h1>
+            <p class="lead">Marine biologist Mia Carter returns to her coastal hometown to study dolphins, but she finds more than just research opportunities.</p>
+          </div>
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  </header>
+
+  <main>
+
   </main>
-  <h1>Home</h1>
 </body>
 </html>
