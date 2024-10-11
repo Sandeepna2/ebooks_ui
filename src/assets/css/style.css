@@ -1,0 +1,11 @@
+.testimonial-slide {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #0578eb;
+    color: #fff;
+    font-size: 1.5rem;
+}
+
