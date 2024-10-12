@@ -1,4 +1,4 @@
-8645
+8649
 121C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\bootstrap-icons\icons\megaphone-fill.svg133731032836646472 0
 109C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\ordered-binary\tests\test.js133731032901189245 0
 132C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\caniuse-lite\data\features\css-container-queries.js133731032855144499 0
@@ -19,7 +19,7 @@
 112C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\caniuse-lite\data\regions\GM.js133731032865549535 0
 119C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\bootstrap-icons\icons\filetype-m4p.svg133731032828980876 0
 101C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\msgpackr\unpack.d.ts133731032900047102 0
-83C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.html133731835313532225 0
+83C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.html133731903872173297 0
 122C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\optimizer-swc\src\SwcOptimizer.js133731032751199080 0
 114C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\bootstrap-icons\icons\sliders.svg133731032843937117 0
 90C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\type-fest133731032907907218 1
@@ -46,7 +46,7 @@
 90C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\is-number133731032892014216 1
 134C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\_\_async_generator_delegate\package.json133731032801135664 0
 103C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\optimizer-svgo133731032751166930 1
-72C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist133731835313542191 1
+72C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist133731903872691715 1
 136C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\_\_apply_decorated_descriptor\package.json133731032801071080 0
 99C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\msgpackr\pack.d.ts133731032899922280 0
 102C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\js-yaml\lib\common.js133731032892479822 0
@@ -191,7 +191,7 @@
 122C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@popperjs\core\dist\umd\enums.min.js.flow133731032783478246 0
 100C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\msgpackr\pack.d.cts133731032899922280 0
 114C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\update-browserslist-db\index.d.ts133731032908013332 0
-82C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\src\index.html133731839870765058 0
+82C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\src\index.html133731903867400344 0
 127C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@popperjs\core\lib\utils\getBasePlacement.d.ts133731032786797118 0
 101C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\env-paths\index.d.ts133731032888759206 0
 145C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133731032782492692 0
@@ -298,7 +298,7 @@
 95C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\src\assets\images\book1.jpg133731189296127969 0
 114C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\src\_export_star.mjs133731032807544157 0
 113C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\cosmiconfig\dist\readFile.js.map133731032869911568 0
-92C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\src\assets\css\style.css133731475279909562 0
+92C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\src\assets\css\style.css133731899873999121 0
 105C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\node-addon-api\README.md133731032900087926 0
 104C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\svgo\dist\svgo-node.cjs133731032905921604 0
 104C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\htmlnano\docs\README.md133731032889926962 0
@@ -723,7 +723,7 @@
 109C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\posthtml-render\package.json133731032901993680 0
 157C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\SelectorList.js133731032749546864 0
 94C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\source-map-js133731032905304065 1
-90C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.18dbc454.js133731831095880905 0
+90C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.18dbc454.js133731903872173297 0
 131C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\transformer-babel\lib\remapAstLocations.js133731032777861498 0
 87C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\srcset133731032905901674 1
 119C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\csso\node_modules\css-tree\lib\data.js133731032883685636 0
@@ -1120,7 +1120,7 @@
 115C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\type-fest\source\set-optional.d.ts133731032907907218 0
 123C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\caniuse-lite\data\features\css-autofill.js133731032854415717 0
 118C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\source-map\lib\source-map-consumer.js133731032905820021 0
-92C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\book-3.622b9208.jpg133731831095880905 0
+92C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\book-3.622b9208.jpg133731903872282999 0
 104C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\css-select\lib\types.js133731032872082353 0
 115C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\type-fest\source\set-required.d.ts133731032907907218 0
 153C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertTransform.js133731032748166066 0
@@ -1835,7 +1835,7 @@
 148C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\index.js133731032749779778 0
 120C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\bootstrap\scss\bootstrap-utilities.scss133731032852126166 0
 108C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\sass\types\value\mixin.d.ts133731032904421577 0
-94C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.18dbc454.js.map133731831096054905 0
+94C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.18dbc454.js.map133731903872538940 0
 128C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\caniuse-lite\data\features\keyboardevent-key.js133731032859092237 0
 138C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_path.js133731032750752244 0
 109C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\sass\types\logger\index.d.ts133731032903932059 0
@@ -2634,7 +2634,7 @@
 132C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\caniuse-lite\data\features\requestanimationframe.js133731032861984218 0
 138C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest2.c133731032897880973 0
 138C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133731032897897343 0
-88C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\book\index.html133731831095670298 0
+88C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\book\index.html133731903872163325 0
 124C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\caniuse-lite\data\features\localecompare.js133731032859431545 0
 133C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Block.cjs133731032882186054 0
 120C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\_\_class_private_field_get133731032801328807 1
@@ -4686,7 +4686,7 @@
 113C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\resolver-default\LICENSE133731032752529880 0
 122C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\_\_to_primitive\package.json133731032803131726 0
 112C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\caniuse-lite\data\regions\AE.js133731032864362636 0
-92C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\book-2.c104943d.jpg133731831096114752 0
+92C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\book-2.c104943d.jpg133731903872538940 0
 112C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\caniuse-lite\data\regions\AG.js133731032864362636 0
 125C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\caniuse-lite\data\features\filereadersync.js133731032858157846 0
 112C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\caniuse-lite\data\regions\AI.js133731032864362636 0
@@ -7293,6 +7293,7 @@
 139C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\_\_tagged_template_literal_loose\package.json133731032803087661 0
 131C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\_\_sliced_to_array_loose\package.json133731032803047748 0
 148C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\CDO.js133731032749369500 0
+103C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.044e704e.css.map.17312.r133731867816904265 0
 125C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\_\_sliced_to_array\package.json133731032803028757 0
 135C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\_\_skip_first_generator_next\package.json133731032803025868 0
 113C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\_\_set\package.json133731032802998179 0
@@ -7465,7 +7466,7 @@
 118C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\cjs\_async_generator.cjs133731032804004543 0
 124C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\cjs\_await_async_generator.cjs133731032804004543 0
 113C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\cjs\_call_super.cjs133731032804004543 0
-82C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\cart.html133731831095650351 0
+82C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\cart.html133731903872163325 0
 137C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\cjs\_class_apply_descriptor_destructure.cjs133731032804082324 0
 129C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\cjs\_class_apply_descriptor_get.cjs133731032804082324 0
 132C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@swc\helpers\cjs\_class_apply_descriptor_update.cjs133731032804082324 0
@@ -8386,6 +8387,7 @@
 128C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\core\test\fixtures\plugins\node_modules133731032744920796 1
 159C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133731032744910747 1
 158C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines133731032744930708 1
+103C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.18dbc454.js.map.17356.10133731866168544284 0
 171C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json133731032744930708 0
 168C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\index.js133731032744910747 0
 172C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json133731032744910747 0
@@ -8621,26 +8623,28 @@
 90C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\.bin\svgo133731032741776108 0
 94C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\.bin\svgo.ps1133731032741786386 0
 108C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\node_modules\.bin\update-browserslist-db133731032741786386 0
-83C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\about.html133731831095650351 0
-79C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\author133731831095740114 1
-77C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\book133731831095730142 1
-91C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\book1.de0e6075.jpg133731831096054905 0
+79C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\author133731903872253087 1
+77C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\book133731903872243103 1
 89C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\cart.f7b0d6c4.js133731032741214335 0
 92C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\contact.d25830f9.js133731032741249671 0
 96C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\contact.d25830f9.js.map133731032741262715 0
-85C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\contact.html133731831095660314 0
 94C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\ebooks_ui.59712999.js133731032741274808 0
-91C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.044e704e.css133731831096054905 0
 99C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.044e704e.css.8656.2j133731265725091811 0
-95C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.044e704e.css.map133731831096164604 0
-91C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.07fedde6.css133731831095880905 0
-95C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.07fedde6.css.map133731831096054905 0
+103C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.07fedde6.css.map.17312.q133731867816914248 0
 103C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.18dbc454.js.map.10844.1z133731032741417969 0
 103C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.18dbc454.js.map.15220.1t133731463479923191 0
 102C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.18dbc454.js.map.1580.2e133731417000704891 0
+102C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.18dbc454.js.map.17312.s133731867816934181 0
 94C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\login.355e69e6.js.map133731032741437902 0
-83C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\login.html133731831095750089 0
 93C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\register.25de21bd.js133731032741459531 0
-86C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\register.html133731831095660314 0
 94C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\store.07f20941.js.map133731032741494433 0
-90C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\author\index.html133731831095670298 0
+85C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\contact.html133731903872163325 0
+83C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\login.html133731903872163325 0
+83C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\about.html133731903872163325 0
+86C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\register.html133731903872163325 0
+91C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.07fedde6.css133731903872173297 0
+90C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\author\index.html133731903872163325 0
+91C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.044e704e.css133731903872183453 0
+95C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.07fedde6.css.map133731903872538940 0
+91C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\book1.de0e6075.jpg133731903872538940 0
+95C:\Users\SANTHOSH KUMAR\Documents\GitHub\desktop-tutorial\ebooks_ui\dist\index.044e704e.css.map133731903872538940 0
