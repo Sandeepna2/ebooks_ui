@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>eBooks</title>
   <link rel="stylesheet" href="./assets/css/style.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="scss/styles.scss" />
   <script type="module" src="js/main.js"></script>
   
@@ -387,6 +388,61 @@
   </div>
 </div>
 
+         
+           <!-- Enquiry Form -->
+
+           <div class="container mt-5">
+            <h2 class="mb-4">Book Enquiry Form</h2>
+            <form id="bookEnquiryForm">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="name" class="form-label">Your Name</label>
+                            <input type="text" class="form-control" id="name" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="email" class="form-label">Email address</label>
+                            <input type="email" class="form-control" id="email" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="bookTitle" class="form-label">Book Title</label>
+                            <input type="text" class="form-control" id="bookTitle" required>
+                        </div>
+                        <div class="mb-3">
+                            <label for="author" class="form-label">Author</label>
+                            <input type="text" class="form-control" id="author">
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label for="isbn" class="form-label">ISBN-International Standard Book Number (if known)</label>
+                            <input type="text" class="form-control" id="isbn">
+                        </div>
+                        <div class="mb-3">
+                            <label for="inquiryType" class="form-label">Nature of Inquiry</label>
+                            <select class="form-select" id="inquiryType" required>
+                                <option value="">Select an option</option>
+                                <option value="availability">Book Availability</option>
+                                <option value="price">Price Inquiry</option>
+                                <option value="shipping">Shipping Information</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                        <div class="mb-3">
+                            <label for="message" class="form-label">Additional Details</label>
+                            <textarea class="form-control" id="message" rows="5" required></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12">
+                        <button type="submit" class="btn btn-primary">Submit Inquiry</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    
+    
 
   </main>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
