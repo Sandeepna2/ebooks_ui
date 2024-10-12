@@ -29,18 +29,11 @@ body {
 }
 
 
-.social-icons a {
-    color: white;
-    font-size: 1.5rem;
-    margin-right: 1rem;
-}
-.social-icons a:hover {
-    color: white;
-}
+
 
 .social-icons a {
-    color: #ffffff;
-    background-color: #6c757d;
+    color: #ee1313;
+    background-color: #07111b;
     border-radius: 50%;
     display: inline-flex;
     align-items: center;
@@ -67,5 +60,12 @@ body {
 }
 .social-icons a.youtube:hover {
     background-color: #ff0000;
+}
+
+.social-icons a {
+    transition: opacity 0.3s ease;
+}
+.social-icons a:hover {
+    opacity: 0.8;
 }
 
