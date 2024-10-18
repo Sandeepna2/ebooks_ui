@@ -1,3 +1,11 @@
+.card {
+  transition: box-shadow .2s;
+}
+
+.card:hover {
+  box-shadow: 0 4px 20px #0000004d;
+}
+
 .testimonial-slide {
   text-align: center;
   color: #fff;
