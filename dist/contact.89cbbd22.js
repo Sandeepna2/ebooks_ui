@@ -584,10 +584,11 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 }
 
 },{}],"9BzDw":[function(require,module,exports) {
+//Contact form js
 document.addEventListener("DOMContentLoaded", ()=>{
     const form = document.querySelector("form");
     form.addEventListener("submit", (event)=>{
-        event.preventDefault(); // Prevent the default form submission
+        event.preventDefault();
         // Get form values
         const name = document.getElementById("name").value.trim();
         const email = document.getElementById("email").value.trim();
@@ -609,7 +610,26 @@ document.addEventListener("DOMContentLoaded", ()=>{
             subject,
             message
         });
-        alert("Message sent successfully!");
+        fetch("https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NjYwNTZjMDYzNDA0MzQ1MjZmNTUzMzUxM2Ei_pc", {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                name,
+                email,
+                subject,
+                message
+            }) // Convert the data to JSON
+        }).then((response)=>{
+            if (!response.ok) throw new Error("Network response was not ok");
+            return response.json(); // Parse the JSON response if needed
+        }).then((data)=>{
+            console.log("Success:", data); // Handle success response
+            alert("Message sent successfully!");
+        }).catch((error)=>{
+            console.error("Error:", error); // Handle errors
+        });
         // Clear the form
         form.reset();
     });
